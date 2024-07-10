@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @naveena3006
-- 👀 I’m interested in coding, AI, space 
-- 🌱 I’m currently learning Python and C languages
+- 👋 Hi, I’m @llamaoutale
+- 👀 I’m interested in tech
+- 🌱 I’m currently working on open source projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
